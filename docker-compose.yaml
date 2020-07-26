@@ -1,0 +1,18 @@
+version: "2"
+services:
+  dmsmongo:
+    image: mongo
+    container_name: dmsmongo
+    # volumes:
+    #   - ~/mongo_backup/dmsmongo/:/data/db/
+  dmsapi:
+    image: dmsapi
+    container_name: dmsapi
+    depends_on:
+      - dmsmongo
+    volumes:
+      - /usr/app/node_modules
+      - ./:/usr/app/
+    ports:
+      - 5000:5000
+    command: "npm start"

@@ -1,0 +1,374 @@
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596127193","level":"info"}
+{"message":"500 - {error:ValidationError: owner: Path `owner` is required.}","level":"error"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596127193","level":"info"}
+{"message":"404 - {code:404,error:[{message:Required fields 'folderName'}]}","level":"error"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596127193","level":"info"}
+{"message":"500 - {error:ValidationError: owner: Path `owner` is required.}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596127193","level":"info"}
+{"level":"info","message":"f1"}
+{"message":"500 - {error:ValidationError: owner: Path `owner` is required.}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596127193","level":"info"}
+{"message":"f1 undefined","level":"info"}
+{"message":"500 - {error:ValidationError: owner: Path `owner` is required.}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596127193","level":"info"}
+{"message":"f1 undefined","level":"info"}
+{"message":"500 - {error:ValidationError: owner: Path `owner` is required.}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /register from 192.168.0.167","level":"info"}
+{"message":" New request for  /login from 192.168.0.167","level":"info"}
+{"message":"500 - {error:err}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /login from 192.168.0.167","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"f1 jesh","level":"info"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"500 - {error:TypeError: Cannot read property 'name' of undefined}","level":"error"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/list from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/list from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"500 - {error:TypeError: folders.map is not a function}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/list from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/filesInFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"404 - {code:404,error:[{message:Required fields 'folderName'}]}","level":"error"}
+{"message":" New request for  /dms/filesInFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"404 - {code:404,error:[{message:Required fields 'folderName'}]}","level":"error"}
+{"message":" New request for  /dms/filesInFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"404 - {code:404,error:[{message:Required fields 'folderName'}]}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/filesInFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"404 - {code:404,error:[{message:Required fields 'folderName'}]}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/filesInFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"404 - {code:404,error:[{message:Required fields 'folderName'}]}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/filesInFolder?folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"500 - {error:TypeError: fileNames.map is not a function}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/filesInFolder?folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"500 - {error:TypeError: fileNames.map is not a function}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/filesInFolder?folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/list from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"404 - {code:404,error:[{message:Required fields 'folderName'}]}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/list from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/file?fileName=sample.pdf from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/file?fileName=sample.pdf&folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"500 - {error:MongoError: $in needs an array}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/file?fileName=sample.pdf&folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"404 - {code:404,error:[{message:File 'sample.pdf' does not exists in f1}]}","level":"error"}
+{"message":" New request for  /dms/filesInFolder?folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/file?fileName=sample.pdf&folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"500 - {error:TypeError: files.filter is not a function}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/file?fileName=sample.pdf&folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/file?fileName=sample.pdf&folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/file?fileName=sample.pdf from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/file?fileName=sample.pdf&folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/list from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"500 - {error:TypeError: req.body.opCode is not a function}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/list from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/filesInFolder?folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/file?fileName=spider.jpg&folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/file?fileName=spider.jpg from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"404 - {code:404,error:[{message:File 'spider.jpg' does not exists }]}","level":"error"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"f2 jesh","level":"info"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"403 - {code:403,errors:[{message:File 'spider.jpg' does not Exists}]}","level":"error"}
+{"error":{},"level":"error","message":"uncaughtException: Identifier 'file' has already been declared\n/usr/app/controllers/dmsController.js:247\n  let file = await files.file.filter((x) => x.fileName == fileName)[0];\n      ^\n\nSyntaxError: Identifier 'file' has already been declared\n    at Module._compile (internal/modules/cjs/loader.js:891:18)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)\n    at Module.load (internal/modules/cjs/loader.js:811:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:723:14)\n    at Module.require (internal/modules/cjs/loader.js:848:19)\n    at require (internal/modules/cjs/helpers.js:74:18)\n    at Object.<anonymous> (/usr/app/routes/dmsRoutes/dmsRoutes.js:3:23)\n    at Module._compile (internal/modules/cjs/loader.js:955:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)\n    at Module.load (internal/modules/cjs/loader.js:811:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:723:14)\n    at Module.require (internal/modules/cjs/loader.js:848:19)\n    at require (internal/modules/cjs/helpers.js:74:18)\n    at Object.<anonymous> (/usr/app/routes/index.js:8:17)\n    at Module._compile (internal/modules/cjs/loader.js:955:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)","stack":"/usr/app/controllers/dmsController.js:247\n  let file = await files.file.filter((x) => x.fileName == fileName)[0];\n      ^\n\nSyntaxError: Identifier 'file' has already been declared\n    at Module._compile (internal/modules/cjs/loader.js:891:18)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)\n    at Module.load (internal/modules/cjs/loader.js:811:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:723:14)\n    at Module.require (internal/modules/cjs/loader.js:848:19)\n    at require (internal/modules/cjs/helpers.js:74:18)\n    at Object.<anonymous> (/usr/app/routes/dmsRoutes/dmsRoutes.js:3:23)\n    at Module._compile (internal/modules/cjs/loader.js:955:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)\n    at Module.load (internal/modules/cjs/loader.js:811:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:723:14)\n    at Module.require (internal/modules/cjs/loader.js:848:19)\n    at require (internal/modules/cjs/helpers.js:74:18)\n    at Object.<anonymous> (/usr/app/routes/index.js:8:17)\n    at Module._compile (internal/modules/cjs/loader.js:955:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)","exception":true,"date":"Sun Jul 26 2020 13:17:14 GMT+0000 (Coordinated Universal Time)","process":{"pid":376,"uid":0,"gid":0,"cwd":"/usr/app","execPath":"/usr/local/bin/node","version":"v12.14.1","argv":["/usr/local/bin/node","/usr/app/app.js"],"memoryUsage":{"rss":65748992,"heapTotal":32256000,"heapUsed":19691312,"external":20222570}},"os":{"loadavg":[2.34228515625,1.4345703125,1.40087890625],"uptime":27107},"trace":[{"column":18,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":891,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":991,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":811,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":723,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":848,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":23,"file":"/usr/app/routes/dmsRoutes/dmsRoutes.js","function":null,"line":3,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":955,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":991,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":811,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":723,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":848,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":17,"file":"/usr/app/routes/index.js","function":null,"line":8,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":955,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":991,"method":".js","native":false}]}
+{"error":{},"level":"error","message":"uncaughtException: Identifier 'file' has already been declared\n/usr/app/controllers/dmsController.js:247\n  let file = await files.file.filter((x) => x.fileName == fileName)[0];\n      ^\n\nSyntaxError: Identifier 'file' has already been declared\n    at Module._compile (internal/modules/cjs/loader.js:891:18)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)\n    at Module.load (internal/modules/cjs/loader.js:811:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:723:14)\n    at Module.require (internal/modules/cjs/loader.js:848:19)\n    at require (internal/modules/cjs/helpers.js:74:18)\n    at Object.<anonymous> (/usr/app/routes/dmsRoutes/dmsRoutes.js:3:23)\n    at Module._compile (internal/modules/cjs/loader.js:955:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)\n    at Module.load (internal/modules/cjs/loader.js:811:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:723:14)\n    at Module.require (internal/modules/cjs/loader.js:848:19)\n    at require (internal/modules/cjs/helpers.js:74:18)\n    at Object.<anonymous> (/usr/app/routes/index.js:8:17)\n    at Module._compile (internal/modules/cjs/loader.js:955:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)","stack":"/usr/app/controllers/dmsController.js:247\n  let file = await files.file.filter((x) => x.fileName == fileName)[0];\n      ^\n\nSyntaxError: Identifier 'file' has already been declared\n    at Module._compile (internal/modules/cjs/loader.js:891:18)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)\n    at Module.load (internal/modules/cjs/loader.js:811:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:723:14)\n    at Module.require (internal/modules/cjs/loader.js:848:19)\n    at require (internal/modules/cjs/helpers.js:74:18)\n    at Object.<anonymous> (/usr/app/routes/dmsRoutes/dmsRoutes.js:3:23)\n    at Module._compile (internal/modules/cjs/loader.js:955:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)\n    at Module.load (internal/modules/cjs/loader.js:811:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:723:14)\n    at Module.require (internal/modules/cjs/loader.js:848:19)\n    at require (internal/modules/cjs/helpers.js:74:18)\n    at Object.<anonymous> (/usr/app/routes/index.js:8:17)\n    at Module._compile (internal/modules/cjs/loader.js:955:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)","exception":true,"date":"Sun Jul 26 2020 13:17:22 GMT+0000 (Coordinated Universal Time)","process":{"pid":390,"uid":0,"gid":0,"cwd":"/usr/app","execPath":"/usr/local/bin/node","version":"v12.14.1","argv":["/usr/local/bin/node","/usr/app/app.js"],"memoryUsage":{"rss":66416640,"heapTotal":32256000,"heapUsed":19827448,"external":20229491}},"os":{"loadavg":[2.154296875,1.41064453125,1.39306640625],"uptime":27115},"trace":[{"column":18,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":891,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":991,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":811,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":723,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":848,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":23,"file":"/usr/app/routes/dmsRoutes/dmsRoutes.js","function":null,"line":3,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":955,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":991,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":811,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":723,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":848,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":74,"method":null,"native":false},{"column":17,"file":"/usr/app/routes/index.js","function":null,"line":8,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":955,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":991,"method":".js","native":false}]}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"404 - {code:404,error:[{message:File 'spider.jpg' does not exists in f1}]}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"500 - {error:TypeError: Cannot read property 'filter' of undefined}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"500 - {error:TypeError: Cannot read property 'filter' of undefined}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"500 - {error:ReferenceError: fileName is not defined}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/list from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/filesInFolder?folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/filesInFolder?folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/filesInFolder?folderName=f2 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/file?fileName=spider.jpg&folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/file?fileName=spider.jpg&folderName=f2 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/file?fileName=spider.jpg&folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"404 - {code:404,error:[{message:File 'spider.jpg' does not exists in f1}]}","level":"error"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/list from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/filesInFolder?folderName=f1 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/filesInFolder?folderName=f2 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/list from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"500 - {error:ValidationError: owner: Path `owner` is required.}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/filesInFolder?folderName=f2 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"f3 jesh","level":"info"}
+{"message":"500 - {error:MongoError: E11000 duplicate key error collection: dms.folders index: files.fileName_1 dup key: { files.fileName: null }}","level":"error"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"f4 jesh","level":"info"}
+{"message":"500 - {error:MongoError: E11000 duplicate key error collection: dms.folders index: files.fileName_1 dup key: { files.fileName: null }}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"f3 jesh","level":"info"}
+{"message":"500 - {error:MongoError: E11000 duplicate key error collection: dms.folders index: files.fileName_1 dup key: { files.fileName: null }}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"f3 jesh","level":"info"}
+{"message":"500 - {error:MongoError: E11000 duplicate key error collection: dms.folders index: files.fileName_1 dup key: { files.fileName: null }}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"f3 jesh","level":"info"}
+{"message":"500 - {error:MongoError: E11000 duplicate key error collection: dms.folders index: files.fileName_1 dup key: { files.fileName: null }}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"f3 jesh","level":"info"}
+{"message":"500 - {error:MongoError: E11000 duplicate key error collection: dms.folders index: files.fileName_1 dup key: { files.fileName: null }}","level":"error"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"ff3 jesh","level":"info"}
+{"message":"500 - {error:MongoError: E11000 duplicate key error collection: dms.folders index: files.fileName_1 dup key: { files.fileName: null }}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"ff3 jesh","level":"info"}
+{"message":"500 - {error:MongoError: E11000 duplicate key error collection: dms.folders index: files.fileName_1 dup key: { files.fileName: null }}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"ff3 jesh","level":"info"}
+{"message":"500 - {error:MongoError: E11000 duplicate key error collection: dms.folders index: files.fileName_1 dup key: { files.fileName: null }}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"ff3 jesh","level":"info"}
+{"message":"500 - {error:MongoError: E11000 duplicate key error collection: dms.folders index: files.fileName_1 dup key: { files.fileName: null }}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"ff3 jesh","level":"info"}
+{"message":"500 - {error:MongoError: E11000 duplicate key error collection: dms.folders index: files.fileName_1 dup key: { files.fileName: null }}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"ff3 jesh","level":"info"}
+{"message":"500 - {error:MongoError: E11000 duplicate key error collection: dms.folders index: files.fileName_1 dup key: { files.fileName: null }}","level":"error"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"ff3 jesh","level":"info"}
+{"message":" New request for  /dms/list from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"403 - {code:403,errors:[{message:Folder does not Exists}]}","level":"error"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/filesInFolder?folderName=ff3 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"500 - {error:TypeError: Cannot read property 'file' of null}","level":"error"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"403 - {code:403,errors:[{message:File already Exists}]}","level":"error"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/createFolder from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"ff4 jesh","level":"info"}
+{"message":" New request for  /dms/moveFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/filesInFolder?folderName=ff3 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}
+{"message":" New request for  /dms/addFile from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":" New request for  /dms/filesInFolder?folderName=ff3 from 192.168.0.167","level":"info"}
+{"message":"Decoded from JWT token: username - jesh, expiry - 1596128027","level":"info"}
+{"message":"DMS apis are running on http://0.0.0.0:5000","level":"info"}
+{"message":"MongoDB connected","level":"info"}

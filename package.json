@@ -1,0 +1,29 @@
+{
+  "name": "automate.io",
+  "version": "1.0.0",
+  "description": "Assignment Task for Automate.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Jaswanth Gorripati",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "2.2.1",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "errorhandler": "1.5.1",
+    "express": "^4.17.1",
+    "express-bearer-token": "2.4.0",
+    "express-fileupload": "^1.1.7-alpha.4",
+    "express-jwt": "5.3.1",
+    "helmet": "^3.23.3",
+    "jsonwebtoken": "8.5.1",
+    "mongoose": "^5.9.25",
+    "winston": "^3.3.3",
+    "nodemon": "1.19.3"
+  }
+}
