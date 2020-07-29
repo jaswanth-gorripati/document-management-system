@@ -1,8 +1,8 @@
 const mongoose = require("../loaders/mongoose");
 
 const filesSchema = new mongoose.Schema({
-  owner: { type: String, required: true },
-  fileName: { type: String, required: true, unique: true },
+  owner: { type: String, required: true, index: true },
+  fileName: { type: String, required: true, unique: true, index: true },
   content: { type: String, required: true },
   createdOn: { type: Number, requied: true },
 });
