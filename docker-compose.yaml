@@ -10,9 +10,6 @@ services:
     container_name: dmsapi
     depends_on:
       - dmsmongo
-    volumes:
-      - /usr/app/node_modules
-      - ./:/usr/app/
     ports:
       - 5000:5000
     command: "npm start"
